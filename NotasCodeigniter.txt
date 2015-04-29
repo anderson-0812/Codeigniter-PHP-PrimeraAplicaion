@@ -1,0 +1,5 @@
+Cargar varos modelos a al vez
+$this->load->model(array('Cliente_model','Factura_model'));
+
+cargar varios helper a la vez 
+$this->load->helper(array('url','file','etc etc etc'));
